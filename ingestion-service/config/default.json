@@ -1,0 +1,8 @@
+{
+    "port": 3000,
+    "rabbitmq": {
+      "url": "amqp://admin:admin@rabbitmq:5672",
+      "queue": "metrics-events"
+    }
+  }
+  
